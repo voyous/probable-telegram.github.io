@@ -62,8 +62,8 @@ li
 
 .home-text
 {
-    position: relative;
-    top: 250px;
+    position: center;
+    margin-top: 15em;
 }
 
 .banner
